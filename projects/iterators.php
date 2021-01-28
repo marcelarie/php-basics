@@ -21,7 +21,7 @@ while($i < 10 ) {
 #dowhile
 $i = 2;
 do {
-    echo $i;
+    echo $i++;
 } while ($i < 5);
 
 ?>
