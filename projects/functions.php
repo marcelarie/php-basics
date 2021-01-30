@@ -1,4 +1,6 @@
 <?php
+echo "<h1>Functions</h1>";
+
 echo "<h3>1. It generates a function that given two numbers returns the sum of 
 both </h3>";
 function sum($a,$b) {

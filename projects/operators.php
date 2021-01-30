@@ -2,6 +2,7 @@
 // Create an example of use for arithmetic operators: +, -, *, /, and%
 // Create a usage example for comparison operators: ==,!=, <,>, <=,>=
 // Create an example of use for logical operators: &&, And; ||, Or; ! (NOT); Xor
+echo "<h1>Operators</h1>";
 
 echo "<h1>1 + 2</h1>";
 echo var_dump(1 + 2);

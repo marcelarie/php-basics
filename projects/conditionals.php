@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Conditionals</h1>";
 echo "<h3>1. Create a simple condition that evaluates whether the current day is 
 Monday. Only in the case that the condition is met, it shows a message of “We
  are on Monday”.  </h3>";

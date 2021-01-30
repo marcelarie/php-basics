@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Dates</h1>";
 # DATE TIME 
 echo "<h1>DateTime with 'Y-m-d' argument:</h1>";
 $d = new DateTime('now');
