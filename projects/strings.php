@@ -48,6 +48,4 @@ array_push($new,6);
 echo "\$new = array(1,2,3,4,5);<br>";
 echo "array_push(\$new,6);<br>";
 echo  var_dump($new);
-
-
 ?>
