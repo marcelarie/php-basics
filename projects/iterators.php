@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Iterators</h1>";
 # for
 echo "<h1>For loop:</h1>";
 for ($vari = 0; $vari <=5; $vari++) {

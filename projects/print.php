@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Print</h1>";
 echo "<h1>Echo:</h1>";
 echo "I'm using echo<br>";
 

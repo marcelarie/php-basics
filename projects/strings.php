@@ -1,6 +1,4 @@
 <?php
-echo "<h1>Strings</h1>";
-
 echo "<h3>1. Print a text string</h3>";
 echo " print('string') => ";
 print('string');

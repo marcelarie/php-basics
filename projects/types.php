@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Types</h1>";
 echo "<h3>1. Define a new variable and assign a value to each of the following 
 types:</h3>";
 $bool = True;

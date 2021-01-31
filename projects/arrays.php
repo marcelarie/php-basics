@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Arrays</h1>";
 echo "<h3>1. Define a simple array composed of text strings</h3>";
 $simpleText = array('simple', 'and', 'text');
 echo "\$simpleText = array('simple', 'and', 'text');<br>";
@@ -17,10 +16,10 @@ $multiDimensional = array(
     array('dimension', 02),
     array('dimension', 03)
 );
-echo "\$multiDimensional = array(
-    array('dimension', 01),
-    array('dimension', 02),
-    array('dimension', 03)
+echo "\$multiDimensional = array(<br>
+    array('dimension', 01),<br>
+    array('dimension', 02),<br>
+    array('dimension', 03)<br>
 ); <br><br>";
 echo var_dump($multiDimensional);
 

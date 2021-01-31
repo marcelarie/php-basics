@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Maths</h1>";
 echo "<h3>1. Define a variable whose value is the result of the function that 
 returns an absolute value. </h3>";
 $absolute = abs(10);

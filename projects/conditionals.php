@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Conditionals</h1>";
 echo "<h3>1. Create a simple condition that evaluates whether the current day is 
 Monday. Only in the case that the condition is met, it shows a message of “We
  are on Monday”.  </h3>";
@@ -8,6 +7,9 @@ $date = new DateTime('today');
 if ($date->format('l') == 'Monday') {
     echo 'We are on Monday';
 };
+echo "if (\$date->format('l') == 'Monday') {<br>
+    echo 'We are on Monday';<br>
+};";
 echo "<h3>2. Create a simple condition that evaluates whether the current month is 
 October. If the condition is met, it shows a message of the type 'We are in 
 October'. Otherwise, if this condition is not met, show the current month in 
@@ -32,7 +34,7 @@ if ($date->format('i') < 10) {
     echo "The current minute is more than 15";
 } else {
     echo "does not meet any conditions";
-}
+};
 
 echo "<h4>4. Create a switch type control structure to display a different 
 message depending on the current day of the week. You can write any type of 
