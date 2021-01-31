@@ -1,5 +1,4 @@
 <?php
-
 include 'projects/print.php';
 echo "<hr>";
 include 'projects/iterators.php';
